@@ -9,8 +9,9 @@
  
 # Bazı Görseller  
 ![Untitledd](https://user-images.githubusercontent.com/97955568/215527511-12c168af-7399-4658-b1ae-e2f683709115.png)
-
- # İletişim 
+![image](https://user-images.githubusercontent.com/97955568/215529443-68b9ad65-8251-4db8-bc91-15f266e4042b.png)
+ 
+# İletişim 
 Satın almak için iletişim
  - [Discord Profilim](https://discord.com/users/560917924257464320)
 
