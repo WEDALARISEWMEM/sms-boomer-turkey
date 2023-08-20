@@ -14,6 +14,6 @@ not: Satın almak için aşşağıdan discord profilime tıklayabilirsiniz türk
  
 # İletişim 
 Satın almak için iletişim
- - [Discord Profilim](https://discord.com/users/1088760123645755444)
+ - [Discord Profilim](https://discord.com/users/1108498175653859358)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1088760123645755444)](https://discord.com/users/1088760123645755444)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
